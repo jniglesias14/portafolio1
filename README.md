@@ -19,4 +19,9 @@ La verdad que este tema me parece el más importante que hemos visto hasta la fe
 En primer lugar la implementación de **funciones** en **Java**, en mi caso me costo un poco la implementación de estas y de los **contructores**, debido a que yo ya tenía una idea del concepto pero en **Python**. Por otra parte las diferentes **relaciones** entre clases me han parecido muy interesantes, ya que en alguna de las primeras prácticas de progrmación orientada a objetos ya las habiamos utilizado pero sin saber el concepto teórico,**asociación**, **agregación** y **composición**.  También esta el concepto de la **herencia** que permite determinar superclases y subclases dentro de un mismo proyecto y las distintas relaciones entre las funciones. Otro concepto que hemos aprendido es el tema de la **visbilidad** que nos permite declarar una propiedad agregandole diferentes grados de visibilidad como private,friendly,protected y public. En último lugar se encuentra el concepto de las **interfaces**, que todavía no hemos entrado en detalle respecto a la realización de prácticas.
 
 
+---
+
+
+## *Pregunta 3*
+
 
