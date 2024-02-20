@@ -166,6 +166,14 @@ public class App1 {
 }
 ```
 
+----
+
+
+## *Pregunta 4*
+**Explica tus conclusiones en este momento sobre estas dos unidades: Qué has aprendido realmente, qué utilidad le ves y di lo más positivo que has adquirido en estas dos unidades y lo que menos te ha gustado.**
+
+En mi opinión son los dos temas más importantes que hemos visto hasta la fecha, también los más complicados. Hemos visto multitud de conceptos que de primeras pueden ser complejos pero con las prácticas se van asimilando cada vez más. Para mi lo más positivo en general ha sido todo, ya que es un tema que me gusta bastante y nos da un amplio abaníco a la hora de desarrollar las prácticas. Por último lo que menos me ha gustado ha sido el tema de interfaces, debido a que todavía esta muy reciente y falta asimilarlo.
+
 
 
 
